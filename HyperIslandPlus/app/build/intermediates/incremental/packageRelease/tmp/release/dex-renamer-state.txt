@@ -1,0 +1,4 @@
+#Fri Oct 30 08:31:50 UTC 2026
+base.0=/workspaces/Hyper-Island-rework/HyperIslandPlus/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
